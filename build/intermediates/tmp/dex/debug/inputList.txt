@@ -1,0 +1,4 @@
+C:\Users\Riccardo\Desktop\Libgdx_spaceey\android\build\intermediates\classes\debug
+C:\Users\Riccardo\Desktop\Libgdx_spaceey\android\build\intermediates\pre-dexed\debug\core-1.0-571c45d5013d33d85b0b4499f2bdb09af041a960.jar
+C:\Users\Riccardo\Desktop\Libgdx_spaceey\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.3-c012c7106fe759bca341fc7df43de7094cc901a0.jar
+C:\Users\Riccardo\Desktop\Libgdx_spaceey\android\build\intermediates\pre-dexed\debug\gdx-1.5.3-ab15e9fd49c37b51f6f48844c3758d4daa44bab2.jar
